@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain queries concerning the receiving of the sacrament preached in a sermon on Saint Luke 9. Vers. 30, 31 / by Richard Standfast.</title>
+            <author>Standfast, Richard, 1608?-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10074</idno>
+            <idno type="STC">Wing S5206</idno>
+            <idno type="STC">ESTC R184576</idno>
+            <idno type="EEBO-CITATION">62369696</idno>
+            <idno type="OCLC">ocm 62369696</idno>
+            <idno type="VID">188145</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10074)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188145)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2856:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain queries concerning the receiving of the sacrament preached in a sermon on Saint Luke 9. Vers. 30, 31 / by Richard Standfast.</title>
+                  <author>Standfast, Richard, 1608?-1684.</author>
+               </titleStmt>
+               <extent>[2], 25, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Charles Allen, Bookseller in Bristol,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Luke 9, 30-31 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Lord's Supper --  Church of England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:188145:1" rendition="simple:additions"/>
+            <p>CERTAIN QUERIES Concerning the Receiving of the Sacrament. Preached in a SERMON ON Saint <hi>Luk.</hi> 9. <hi>Verſ.</hi> 30, 31.</p>
+            <p>By <hi>Richard Standfaſt,</hi> M.A. Rector of <hi>Chriſt-Church</hi> with<g ref="char:EOLhyphen"/>in the City of <hi>Briſtol.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Charles Allen,</hi> Bookſeller in <hi>Briſtol,</hi> 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:188145:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:188145:2"/>
+            <head>CERTAIN QUERIES Concerning the Receiving of the SACRAMENT.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Lord Jeſus Chriſt was Transfigured on the Holy Mount, in the preſence of Saint <hi>Peter, James,</hi> and <hi>John,</hi> who were eye-witneſſes of his Glo<g ref="char:EOLhyphen"/>ry: <hi>For behold, there talked with him two men, which were Mo<g ref="char:EOLhyphen"/>ſes and Elias, who appeared in glory, and ſpake of his deceaſe, which he ſhould ac<g ref="char:EOLhyphen"/>compliſh at Jeruſalem.</hi> By which paſſage it is manifeſt, that among all the Sub<g ref="char:EOLhyphen"/>jects
+<pb n="2" facs="tcp:188145:3"/>in the world, there is not any that doth more deſerve our diligent inquiry, meditation, diſcourſe, and conference, than the Death and Paſſion of our Bleſſed Saviour.</p>
+            <p>And from hence it will appear how much they deſerve to be blamed, who profeſſing Chriſtianity, and living in a Church where this Sacrament may be had, duly adminiſtred according to Chriſts own Inſtitution; (and ſuch we are ſure the Church of <hi>England</hi> to be) ſhall yet, either out of ignorance, fa<g ref="char:EOLhyphen"/>ction, or prophaneſs, live in the conti<g ref="char:EOLhyphen"/>nual neglect of it, as if the Table of the Lord were a contemptible thing, and this bleſſed Sacrament a needleſs matter, and lightly to be eſteemed. Eſpecially conſidering that this bleſſed Sacrament was ordained by Chriſt himſelf, for the continual remembrance of his Death, and of the benefits which we receive thereby.</p>
+            <p>For whoſe conviction and reformati<g ref="char:EOLhyphen"/>on theſe few lines were intended, where<g ref="char:EOLhyphen"/>unto if they prove effectual, I have my
+<pb n="3" facs="tcp:188145:3"/>deſire: However I have endeavoured to deliver my own ſoul.</p>
+            <p>The <hi>Queries</hi> are theſe following.</p>
+            <p>Quer. 1. <hi>Whether the deliverance of mankind from the ſlavery of ſin and Satan, Death and Hell, do not as well deſerve to be kept in remembrance, as the deliver<g ref="char:EOLhyphen"/>ance of the people of Iſrael out of the land of</hi> Egypt, <hi>and the houſe of bondage? Or, which is in ſubſtance all one, Whether there be not as much or more reaſon for celebra<g ref="char:EOLhyphen"/>ting of the Lords-Supper, than there was of old for obſerving of the Paſſover?</hi>
+            </p>
+            <p>See <hi>Exod.</hi> 12.25, 26, 27. their bon<g ref="char:EOLhyphen"/>dage was but a Type of our ſlavery un<g ref="char:EOLhyphen"/>der Satan; their deliverance a Type of ours; their Paſchal Lamb a Type of our Jeſus; the ſprinkling of the blood of the Lamb ſecured them from the de<g ref="char:EOLhyphen"/>ſtroying Angel; the ſprinkling of the blood of Jeſus upon us will ſecure us from the wrath to come, for which we are bound to praiſe God for ever.</p>
+            <pb n="4" facs="tcp:188145:4"/>
+            <p>Surely if they had reaſon to keep their Paſſover, we have as much, if not more reaſon to obſerve the Lords-Sup<g ref="char:EOLhyphen"/>per, for a memorial that Chriſt our Paſſover is ſacrificed for us.</p>
+            <p>Qu. 2. <hi>Whether the celebrating of the Lords Supper, be not as much under com<g ref="char:EOLhyphen"/>mand now as ever the obſerving of the Paſſover was of old?</hi>
+            </p>
+            <p>God gave the <hi>Jews</hi> a ſpecial command about obſerving the Paſſover, inſomuch that the Paſſover is called the ordinance of God; yea, an Ordinance to them and their ſons for ever; <hi>i.e.</hi> as long as their State and Political Government did continue, <hi>Exod.</hi> 12.24. We alſo have a command for the Lords-Supper, when our Savour ſaid, <hi>Do this in re<g ref="char:EOLhyphen"/>membrance of me;</hi> which words of com<g ref="char:EOLhyphen"/>mand belong not only to Chriſts Clergy, Diſciples, but even to all; for if ſome are bound to take, break, and bleſs, others muſt be bound to eat and drink, if ſome are bound to adminiſter,
+<pb n="5" facs="tcp:188145:4"/>others are bound to receive, or elſe what need of any adminiſtration? Nor doth this command ſhew only what may be done, but what muſt be done, and ſo make it not only a free-will offering, but a neceſſary duty, inſomuch that to neglect it is the breach of a Command<g ref="char:EOLhyphen"/>ment, and muſt needs be ſinful before God.</p>
+            <p>Nay there are circumſtances which will aggravate the ſin; for this was in<g ref="char:EOLhyphen"/>ſtituted by a loving Maſter, by a dying Saviour, as his laſt words, Will and Teſta<g ref="char:EOLhyphen"/>ment in memorial of the greateſt love that ever was ſhewn, and it was ordain<g ref="char:EOLhyphen"/>ed to be an Ordinance for ever: In do<g ref="char:EOLhyphen"/>ing <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> we ſhew forth the Lords death till he come; <hi>i.e.</hi> 'till he come again to Judgment. As long as we live here up<g ref="char:EOLhyphen"/>on earth, we ſhall have need of frequent Communicating; when we come to Heaven, we ſhall have no need of any Sacrament, for we ſhall then enjoy the ſubſtance it ſelf: but while we live here, Chriſt hath comply'd with our infirmi<g ref="char:EOLhyphen"/>ty, and hath made it an Ordinance for
+<pb n="6" facs="tcp:188145:5"/>ever, even to the end of the World; and therefore they muſt needs be the more ſinful before God that ſhall to<g ref="char:EOLhyphen"/>tally neglect it.</p>
+            <p>Qu. 3. <hi>Whether the breach of this command do not as well deſerve to be as ſeverely puniſhed, as the not keeping the Paſſover?</hi>
+            </p>
+            <p>Almighty God was ſo careful for eve<g ref="char:EOLhyphen"/>ry man to keep the Paſſover, that if he were not in a condition fit to keep it on the time appointed; <hi>ſcil.</hi> the four<g ref="char:EOLhyphen"/>teenth day of the firſt Month, he was to keep it on the fourteenth day of the ſe<g ref="char:EOLhyphen"/>cond Month; and if having no lawful impediment he did not obſerve it, he was to be cut off from his people, and to bear his ſin, <hi>Numb.</hi> 9.5, 11, 13. <hi>Ex<g ref="char:EOLhyphen"/>ſcindetur a populis ſuis,</hi> i.e. <hi>Hic &amp; in fu<g ref="char:EOLhyphen"/>turo ſaeculo a ſanctorum conſortio exclude<g ref="char:EOLhyphen"/>tur:</hi> So <hi>Junius,</hi> he ſhall be ſhut out from the Communion of Saints both here and hereafter.</p>
+            <p>Now where there is a parity of ſin,
+<pb n="7" facs="tcp:188145:5"/>there may well be feared a parity of judgment; and he that thus excludes himſelf from the ſociety of Gods people here, is not like to be numbred with the Saints hereafter.</p>
+            <p>Qu. 4. <hi>Whether there can be any better way for the commemoration of the death of Christ, than that which was inſtituted by Chriſt himſelf for that very purpoſe?</hi>
+            </p>
+            <p>In this we ſhew forth the Lords death, and Chriſt is ſet forth lively crucified; neither is the bread and wine only a bare ſign or repreſentation of the body and blood of Chriſt thus crucified, and thus ſhed for us, but it is <hi>ſignum exhibi<g ref="char:EOLhyphen"/>tivum,</hi> it is the Communion of the body and blood of Chriſt, 1 <hi>Cor.</hi> 10.16. <hi>i e.</hi> the Communication; for therein there is a real exhibition, a true tender and proffer of the body and blood of Chriſt unto every Communicant for the remiſſion of our ſins, and ſalvation of our ſouls, and this nothing can do but Chriſts own inſtitution.</p>
+            <pb n="8" facs="tcp:188145:6"/>
+            <p>Crucifixes, whether in picture, or in carving, either in wood or metal, are but the imperfect and dangerous inven<g ref="char:EOLhyphen"/>tions of men. Imperfect, for they may de<g ref="char:EOLhyphen"/>lineate one ſuffering upon a Croſs, which may be as well one of the Thieves as Chriſt, and can repreſent but the ſuffer<g ref="char:EOLhyphen"/>ing of the body, not of the ſoul; and but of his Humanity, but cannot repre<g ref="char:EOLhyphen"/>ſent his Divinity; nor can they repre<g ref="char:EOLhyphen"/>ſent the benefits of his Paſſion: And thus far they may be dangerous, that thereby men may be invited to ſuper<g ref="char:EOLhyphen"/>ſtition and Idolatry; and at beſt, it is but the invention of man, and no way fit to come into competition with the command and inſtitution of our Bleſſed Saviour; &amp; if we ſhall think that we can continue the remembrance of the Death of Chriſt as well by any other means as the Sacrament, I ſhould think this were to diſparage the Wiſdom of Chriſt, and to make our ſelves wiſer than him; and how he will like of ſuch doings, judg ye.</p>
+            <p>Qu. 5. <hi>Whether the receiving of this
+<pb n="9" facs="tcp:188145:6"/>Bleſſed Sacrament be not the great badg of our Chriſtian, Proteſtant profeſſion, and witneſs of our Chriſtianity, a diſcrimina<g ref="char:EOLhyphen"/>ting of us from all falſe Religions, and evidencing to the world our dependance upon Chriſt for our remiſſion, righteouſ<g ref="char:EOLhyphen"/>neſs, peace, ſanctification, reſurrection and ſalvation?</hi>
+            </p>
+            <p>He that is baptized in the name of Chriſt in his infancy, may renounce it, and revolt from it when he comes of years: He that is a <hi>Jew,</hi> a <hi>Turk,</hi> yea a <hi>Papist,</hi> 'tis poſſible that ſuch men may come into our publick Aſſemblies, we do not uſe to ſhut our doors, or to keep any out from hearing of the Goſpel, or from being preſent at our prayers, un<g ref="char:EOLhyphen"/>leſs they are Excommunicate; ſo that by all this outward appearance no man can certainly diſcover what we are; but if we conſcientiouſly come to this Holy Table, and partake of this bleſſed Sacrament, even by ſo doing we do declare to the world, as much as out<g ref="char:EOLhyphen"/>ward actions can diſcover it, that we are
+<pb n="10" facs="tcp:188145:7"/>Chriſtians, that we are Proteſtants, and that we do depend upon the Lord Jeſus Chriſt only, for pardon of our ſins, and ſalvation of our ſouls: Inſo<g ref="char:EOLhyphen"/>much that he who lives in the total neglect of this ſo neceſſary a duty may very well be thought to give the world too much occaſion to think, that either he hath as yet his Religion to chuſe, or that he is not willing the world ſhould know what Religion he is of.</p>
+            <p>Qu. 6. <hi>Whether the great neglect of this holy duty doth not juſtly deſerve to have it altogether taken from us, and pro<g ref="char:EOLhyphen"/>voke God to ſend it to another people that ſhall be more thankeful for it, and make a better uſe of it?</hi>
+            </p>
+            <p>The fountain of Goodneſs cannot en<g ref="char:EOLhyphen"/>dure to be laden at with unthankful hands; and this we muſt needs grant, that the vouchſafing of us the liberty of his Table, ſavours of extraordinary fa<g ref="char:EOLhyphen"/>vour, and love ineſtimable: While we have this favour, the glory of God abi<g ref="char:EOLhyphen"/>deth
+<pb n="11" facs="tcp:188145:7"/>amongſt us, and the Almighty Goodneſs is pleaſed in a ſpecial manner to communicate Himſelf unto us; and it muſt needs be a high priviledg for us ſinful creatures to be admitted to be feaſted with him at his Holy Table.</p>
+            <p>Now the greater mercy it is for God thus to condeſcend unto men, the grea<g ref="char:EOLhyphen"/>ter muſt needs be the ſin in the neglect<g ref="char:EOLhyphen"/>ing of it, and the greater comfort there may be had in this bleſſed Ordinance, the more are we enemies to our ſelves in the neglecting thereof; and we can<g ref="char:EOLhyphen"/>not but confeſs that God may juſtly take that from us which we ſo little care for, and which we ſo undervalue as totally to neglect it.</p>
+            <p>Is it not thus among men? who will continue favours to thoſe that care not for them? to thoſe that ſlight and ne<g ref="char:EOLhyphen"/>glect them? and 'tis but reaſonable that God ſhould leave us to our ſelves, and to our own inventions, that ac<g ref="char:EOLhyphen"/>count his favours needleſs things, and ſhall undervalue ſo great ſalvation.</p>
+            <p>We are told of ſome gueſts that
+<pb n="12" facs="tcp:188145:8"/>were invited to a great feaſt, and they took occaſion to be out of the way, which was ſo diſpleaſing to the great feaſt-maker, that he reſolved that not one of them that were bid<g ref="char:EOLhyphen"/>den ſhould ſo much as taſte of his Supper. And if God ſhould deal ſo by us, and either take this bleſſed Or<g ref="char:EOLhyphen"/>dinance quite from us, or ſuffer us to be cheated with an Idolatrous Maſs in the ſtead thereof, we cannot accuſe God of any injuſtice, but muſt needs acknowledg that he hath dealt with us but according to our deſerts.</p>
+            <p>I muſt needs confeſs, that if God ſhould give us up as a prey to thoſe that hate both us, our Religion, and our Peace, which God in mercy pre<g ref="char:EOLhyphen"/>vent: I am very apt to think that the great neglect of this bleſſed Sa<g ref="char:EOLhyphen"/>crament would be one of the chief reaſons which would provoke God ſo to do.</p>
+            <p>Qu. 7. <hi>Whether the preſence of any unworthy Communicant can be a ſuffici<g ref="char:EOLhyphen"/>ent
+<pb n="13" facs="tcp:188145:8"/>excuſe for our neglecting of our duty?</hi>
+            </p>
+            <p>Far be it from me to plead one word in the behalf of thoſe that are in deed and in truth unworthy Com<g ref="char:EOLhyphen"/>municants; and it were to be wiſht, that Diſcipline were ſo vigilant, and put in ſuch due execution, that thoſe that are really unworthy, might be de<g ref="char:EOLhyphen"/>bar'd this holy Communion, 'till they had manifeſted an hearty ſorrow for their paſt offences, and a ſerious reſo<g ref="char:EOLhyphen"/>lution for the reforming of their ways; but if we will allow their preſence to be a ſufficient excuſe for the omiſſion of our duty, no man can have any comfort in his own Communicating, unleſs he could be aſſured that no hy<g ref="char:EOLhyphen"/>pocrite were preſent, which cannot be done but by Divine revelation.</p>
+            <p>Beſides this, let me deſire you to take notice of that paſſage, <hi>Joh.</hi> 13.10, 11. <hi>Ye are clean, but not all, for he knew
+<pb n="14" facs="tcp:188145:9"/>who ſhould betray him; therefore ſaid he, Ye are not all clean.</hi> Upon which words Saint <hi>Auguſtine</hi> doth thus de<g ref="char:EOLhyphen"/>ſcant: If the preſence of <hi>Judas</hi> could have polluted the reſt of the Apoſtles, Chriſt would have ſaid, there are none of you clean, becauſe there is one a<g ref="char:EOLhyphen"/>mongſt you that doth defile you; and he would have ſtay'd till <hi>Judas</hi> had been gone out, and then he would have ſaid, Now ye are clean, becauſe he is gone that did defile you; but Chriſt ſaith while <hi>Judas</hi> was preſent, Now are ye clean, but not all, be<g ref="char:EOLhyphen"/>cauſe there was one amongſt them that was unclean. Whereby, ſaith he, it is manifeſt, that, <hi>In eodem caetu ho<g ref="char:EOLhyphen"/>minum etiam Sacramenta ſumentium, aliquorum immunditiem aliis obeſſe non poſſe:</hi> As my worthineſs cannot bene<g ref="char:EOLhyphen"/>fit another, ſo neither can his unwor<g ref="char:EOLhyphen"/>thineſs be any hinderance to me, if I come rightly prepared. And this I am perſwaded the rather to believe, becauſe among the Gueſts which came
+<pb n="15" facs="tcp:188145:9"/>to the Wedding, he that came with<g ref="char:EOLhyphen"/>out a Wedding-garment, was the on<g ref="char:EOLhyphen"/>ly man that was queſtion'd for his unworthineſs; it was not ſaid to the reſt, Why came ye along in this mans company? or there are none of you welcome becauſe this man is in your company; but only, <hi>Friend, how cameſt thou in hither?</hi> Mat. 22.12. And this I am ſure is according to Saint <hi>Paul</hi>'s Doctine, 1 <hi>Cor.</hi> 11.29. <hi>He that eateth and drinketh unworthily, eateth and drinketh damnation to himſelf,</hi> not to another. And therefore this can be no ſufficient excuſe.</p>
+            <p>Qu. 8. <hi>Whether real unworthineſs,</hi> i.e. <hi>whether living in Drunkenneſs, Adultery, Envy, Hatred,</hi> &amp;c. <hi>can be ſufficient to exempt us from the obligati<g ref="char:EOLhyphen"/>on to our duty?</hi>
+            </p>
+            <p>Now to this I anſwer, that none of theſe can exempt us from the obliga<g ref="char:EOLhyphen"/>tion
+<pb n="16" facs="tcp:188145:10"/>to our duty, the obligation is ſtill upon us, for we are under a com<g ref="char:EOLhyphen"/>mand; and whatever our condition be, the command is in force: But what then, muſt we come though we be un<g ref="char:EOLhyphen"/>worthy? No, by no means, but we are bound to put away our unworthi<g ref="char:EOLhyphen"/>neſs, that we may the better perform our duty.</p>
+            <p>I know it will be ſaid, I fear I am not worthy; and if I come unworthily, I become guilty of the body and blood of the Lord Jeſus, and ſo eat and drink to my ſelf damnation; and were it not better for me to forbear, than to come unworthily? Unto this I have many things to ſay.</p>
+            <p>
+               <hi>Firſt,</hi> Here's a fair ſhew and pre<g ref="char:EOLhyphen"/>tence of humility, and ſome pretended reverence to the Ordinance of God; but pretence of humility, may poſſi<g ref="char:EOLhyphen"/>bly prove one of the depths of Satan; this brought in of old the worſhipping
+<pb n="17" facs="tcp:188145:10"/>of Angels, <hi>Col.</hi> 2.18. for in pretence of humility they would not make ſo bold as to make their addreſſes unto God immediately themſelves, becauſe they were ſuch unworthy creatures, and therefore thought it fitter to make their approaches by the mediation of Angels; and what miſchief this pre<g ref="char:EOLhyphen"/>tence of humility was like to have done Saint <hi>Peter,</hi> we may find, <hi>Joh.</hi> 13.8. for had he had his deſire at that preſent, it would have excluded him from having any part in the Lord Jeſus.</p>
+            <p>Beſides, thou feareſt thou art un<g ref="char:EOLhyphen"/>worthy; but let me ask, Is it thy fear that makes thee ſo to think? the more fearful any man is, the more careful he will be to avoid the danger; what makes any man fear? hath he examined himſelf? if not, it is his own fault; if he hath examined, and finds himſelf ſo to be, it is his greater fault if he doth not reform himſelf. Self-examination is
+<pb n="18" facs="tcp:188145:11"/>not to keep us from, but to fit us for the Sacrament. Let a man examine himſelf, and ſo let him eat, not ſtay away. And our Saviour hath taught us, when we come to offer our gift, and there remember that our brother hath ought againſt us, not to carry our gift away, but to leave it there, and to go firſt and be reconciled to our brother, and then come and offer the gift, <hi>Mat.</hi> 5.23, 24.</p>
+            <p>If thou art not fit, thou maiſt be; Gods commands bring no men into ſnares: and therefore here it will be worthy to know what that is that makes us unworthy Communicants.</p>
+            <p>There is a twofold worthineſs, the one is in ſtrictneſs of juſtice, and ſo there is none ſo worthy but that he muſt confeſs with the Church, <hi>We are not worthy ſo much as to gather up the crums that are under thy Table.</hi> And there is a worthineſs of acceptation,
+<pb n="19" facs="tcp:188145:11"/>a meetneſs and fitneſs to be partakers of theſe holy Myſteries, according to which we may every one ſay with <hi>Hezekiah, The good Lord pardon every one that prepareth his heart to ſeek God, the Lord God of his Fathers, though he be not cleanſed according to the pu<g ref="char:EOLhyphen"/>rification of the Sanctuary,</hi> 2 Chron. 30.18, 19.</p>
+            <p>There is alſo a twofold unworthi<g ref="char:EOLhyphen"/>neſs: The one of Infirmity: The other of an evil Conſcience. That of Infir<g ref="char:EOLhyphen"/>mity is what the beſt are liable unto, when by reaſon of our frailty we come not up to that height which is required of us: The other is of an evil Conſcience, which is, when we know that we live in ſome ſins that we are reſolved not to part with, nor repent of; this alone is that unwor<g ref="char:EOLhyphen"/>thineſs which will make us unworthy Communicants; and he that is thus un<g ref="char:EOLhyphen"/>worthy is an enemy to his own Sal<g ref="char:EOLhyphen"/>vation, becauſe he loves to go on in
+<pb n="20" facs="tcp:188145:12"/>wickedneſs, and how can that man ex<g ref="char:EOLhyphen"/>pect the mercy of God? And yet this unworthineſs cannot exempt us from the obligation to our duty, neither doth God neceſſitate any man to do evil, for he requires us to Communi<g ref="char:EOLhyphen"/>cate, and ſhews us the way to do it worthily; and that is, by repenting us truly of our ſins, and ſtedfaſtly pur<g ref="char:EOLhyphen"/>poſing to lead a new life. And this be ſure of, he that fears to come un<g ref="char:EOLhyphen"/>worthily for fear of damnation, that man will be as much afraid to ſtay away unworthily for fear of wilful diſ<g ref="char:EOLhyphen"/>obedience againſt God.</p>
+            <p>We uſe to ſay, <hi>Of two evils, chuſe the leaſt;</hi> but this holds true in penal only, not ſinful evils; for of ſinful we are to chuſe neither. Nor doth God ever bring men into ſuch ſtraits, but that he ſhews a way how to come out of them; and therefore the caſe is not rightly ſtated, which is better, but which is worſe; for both of them
+<pb n="21" facs="tcp:188145:12"/>are ſinful before God; and he that refuſeth to receive upon this account, may as well refuſe to hear the Word of God, leſt it ſhould become the ſa<g ref="char:EOLhyphen"/>vour of death unto death, in refuſing to conform himſelf to the Directions thereof.</p>
+            <p>Qu. 9. <hi>Whether he that lives in ſuch an unworthineſs, as makes him really to be an unworthy Communicant, be not alſo unfit to hear, pray, or die? and he that is ſo, muſt needs be in a ſad condition.</hi>
+            </p>
+            <p>To repent truly of our ſins, to have a lively faith in Gods mercy through Chriſt, and to be in charity with all men, will make a man a meet Com<g ref="char:EOLhyphen"/>municant; and without this a man can neither be fit to pray, hear, nor die.</p>
+            <pb n="22" facs="tcp:188145:13"/>
+            <p>That we may hear as we ought, we muſt lay apart all filthineſs, and receive the ingrafted word; and we muſt believe, for it profits not if not mixt with faith in them that hear it; and we muſt be doers of the Word, and not hearers only, or elſe it will never ſave our ſouls: and that Word requires that all our works be done in charity.</p>
+            <p>Would we pray? how ſhall we call upon him in whom we have not be<g ref="char:EOLhyphen"/>lieved? and if we regard wickedneſs in our hearts, he will not hear us; and how can we pray to God to for<g ref="char:EOLhyphen"/>give us our treſpaſſes, unleſs we for<g ref="char:EOLhyphen"/>give them that treſpaſs againſt us? And if we die in impenitence, unbelief, and diſobedience, how can we expect the Reſurrection of the body unto life everlaſting? If we are fit for theſe, we are fit for the Sacrament: if we ſtill neglect the Sacrament, we may as
+<pb n="23" facs="tcp:188145:13"/>well be thought to neglect all the reſt; and he that lives in that neg<g ref="char:EOLhyphen"/>lect, he is not worthy the name of a Chriſtian.</p>
+            <p>Qu. 10. And laſt, <hi>Whether in all excuſes that we make for our neglect, wilfulneſs be not the principal ingredient? and if we are reſolved to follow our own wills more than the will of God, how can our converſation be ſuitable to the Goſpel?</hi>
+            </p>
+            <p>In St. <hi>Luk.</hi> 14.18. we find mention of a man that made a great Supper, and bad many, and they ſtraitway be<g ref="char:EOLhyphen"/>gan to make excuſe; they were but be<g ref="char:EOLhyphen"/>ginning, they never made a compleat excuſe; they began, but they never fi<g ref="char:EOLhyphen"/>niſhed; and indeed there's no end of making excuſes; but their excuſes were in effect but denials; and Saint <hi>Mat<g ref="char:EOLhyphen"/>thew</hi> ſaith in a like caſe, that when
+<pb n="24" facs="tcp:188145:14"/>they were bid, they would not come, <hi>Mat.</hi> 22.3.</p>
+            <p>There's the truth of the matter, and ſo it will be interpreted another day. And the more wilful ſuch neg<g ref="char:EOLhyphen"/>lect is, the more ſinful it will be found before God.</p>
+            <p>For the cloſe of all.</p>
+            <p>I will only add this one particular.</p>
+            <p>It is Chriſt alone that is the Con<g ref="char:EOLhyphen"/>ſolation of <hi>Iſrael,</hi> neither is there ſalvation in any other; and there is none of us all, but when we come to die, we would be willing to pray with Saint <hi>Stephen, Lord Jeſus receive my ſpirit;</hi> but if our Conſciences ſhould then ſay unto us, You have often refuſed to receive Chriſt here<g ref="char:EOLhyphen"/>tofore, and how can you now think he will receive you? You have often refuſed to receive Chriſt in the way
+<pb n="25" facs="tcp:188145:14"/>of his own inſtitution, and how can you expect he ſhould receive you in<g ref="char:EOLhyphen"/>to everlaſting habitations? would not this be a ſad thought at your laſt departure?</p>
+            <p>Think on this.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:188145:15"/>
+            <head>A POSTSCRIPT to the Chriſtian Reader.</head>
+            <p>
+               <hi>THE great neglect of that Bleſſed Sacrament is ſo common amongſt us, that it is, and ought to be juſt matter of a ſad lamentation; this was the occaſion of the firſt compoſing, and is now of the pre<g ref="char:EOLhyphen"/>ſent publiſhing of this little paper; it is but a little one, and yet big enough through the bleſſing of God to convince the guilty. And as little as it is, it will one day be found to be a great witneſs againſt ſuch as con<g ref="char:EOLhyphen"/>tinue obſtinate; and it will alſo witneſs for me, and of my aim and deſire to do good.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Who am thine in the Lord Jeſus,</hi> R. S.</signed>
+            </closer>
+            <pb facs="tcp:188145:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
